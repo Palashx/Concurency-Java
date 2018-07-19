@@ -1,4 +1,4 @@
-# Concurency-Java
+# Concurency-Java (java.util.concurrent)
 
 This was the final project for the course COMP6411 Comparative study of programming language. Main task of the project was to create a dynamic number of threads, and to pass messages between these threads. We were given a text file which had a list of people, and where each person communicates with other people. Linked blocking Queue was used to provide logical concurrency in the program.
 
